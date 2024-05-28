@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background: #000;
+  
+}
+
+@layer components {
+  .btn {
+    @apply px-8 py-2 capitalize text-black bg-green-500 rounded-lg mt-4 
+  }
+}
