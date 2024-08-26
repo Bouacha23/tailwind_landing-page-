@@ -2,7 +2,7 @@ import { FaFacebook, FaLinkedin, FaInstagram, FaTwitter, FaPinterest } from 'rea
 
 function Footer() {
   return (
-    <div className="Footer bg-black text-white">
+    <div className="Footer bg-[#1d1d1d] text-white">
         <div className="container py-12 px-4 m-auto ">
                
             <ul className="flex justify-center gap-8 items-cente p-4">

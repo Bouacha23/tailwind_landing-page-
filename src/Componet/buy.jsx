@@ -5,7 +5,7 @@ import triple from "../assets/triple.png"
 function Buy() {
   return (
    <div className="buy  bg-white">
-       <div className="container  m-auto px-8 py-12 grid ms:grid-cols-2 md:grid-cols-3 gap-4 ">
+       <div className="container  m-auto w-[60%] md:w-full px-8 py-12 grid ms:grid-cols-2 md:grid-cols-3 gap-4 ">
         <div className=" cart mb-8 shadow-xl py-2 px-4  rounded-sm flex flex-col items-center justify-center">
             <img src={single} alt="" className="w-[80px]  translate-x-2  " />
             <h3>single User </h3>

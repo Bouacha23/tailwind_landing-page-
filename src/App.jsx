@@ -2,13 +2,15 @@
 import Laptop from "./Componet/Laptop"
 import Navbar from "./Componet/Navbar"
 import Welcome from "./Componet/welcome"
-import Tips from "./Componet/tips"
+import  Tips from "./Componet/Tips"
 import Buy from "./Componet/buy"
 import Footer from "./Componet/Footer"
+
 
 function App() {
   return (
     <>
+         
         <Navbar/>
         <Welcome/>
         <Laptop/>

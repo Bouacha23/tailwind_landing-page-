@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 body{
-  background: #000;
+  background: #1d1d1d;
   
 }
 
 @layer components {
   .btn {
-    @apply px-8 py-2 capitalize text-black bg-green-500 rounded-lg mt-4 
+    @apply px-8 py-2 capitalize text-black bg-green-700 rounded-lg mt-4 
   }
 }

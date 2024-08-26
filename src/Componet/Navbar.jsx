@@ -11,7 +11,7 @@ function Navbar() {
   }
   return (
     <div className=" container m-auto h-[70px] w-full text-white  flex  flex-row  flex-nowrap justify-between items-center px-4 py-2 md:px-8 md:py-4 m-auto  ">
-        <p  className="text-blue-500 text-xl font-bold  capitalize">tailwind</p>
+        <p  className="text-green-500 text-xl font-bold  capitalize">tailwind</p>
         <ul className="gap-4 hidden md:flex  ">
             <li className="p-2 hover:bg-blue-500 rounded-sm">Categroy</li>
             <li className="p-2 hover:bg-blue-500 rounded-sm">Home</li>
